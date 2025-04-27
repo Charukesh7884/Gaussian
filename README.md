@@ -63,7 +63,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]()
+
 ![image](https://github.com/user-attachments/assets/2adfea22-ab3c-4412-8df3-2b446afeb00c)
 
 
